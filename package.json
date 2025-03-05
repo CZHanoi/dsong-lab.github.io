@@ -19,7 +19,7 @@
     "sass-loader": "^16.0.5"
   },
   "dependencies": {
-    "@vuepress/plugin-register-components": "2.0.0-rc.37"
+    "@vuepress/plugin-register-components": "2.0.0-rc.72"
   }
 
 }
