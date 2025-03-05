@@ -20,8 +20,6 @@
     "vuepress-theme-hope": "2.0.0-rc.73"
   },
   "dependencies": {
-    "@vuepress/plugin-register-components": "^1.9.10",
-    "lru-cache": "^6.0.0",
-    "markdown-it-emoji": "2.0.0"
+    "@vuepress/plugin-register-components": "2.0.0-rc.79",
   }
 }
