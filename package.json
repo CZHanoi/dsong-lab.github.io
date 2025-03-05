@@ -19,6 +19,7 @@
     "vuepress-theme-hope": "2.0.0-rc.73"
   },
   "dependencies": {
-    "@vuepress/plugin-register-components": "^1.9.10"
+    "@vuepress/plugin-register-components": "^1.9.10",
+    "markdown-it-emoji": "2.0.0"
   }
 }
